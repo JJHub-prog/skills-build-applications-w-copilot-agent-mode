@@ -37,7 +37,8 @@
         },
         "8000": {
             "label": "octofit-tracker-api",
-            "requireLocalPort": true
+            "requireLocalPort": true,
+            "visibility": "public"
         },
         "27017": {
             "label": "octofit-tracker-mongodb",
